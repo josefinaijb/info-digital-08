@@ -12,7 +12,7 @@
 	.st8{font-family:'Roboto';font-weight: 300;}
 	.st9{fill:#77787B;}
 </style>
-<image style="overflow:visible;enable-background:new    ;" width="1920" height="926" xlink:href="time-hkg.png" transform="matrix(0.5 0 0 0.5 0 -26)">
+<image style="overflow:visible;enable-background:new    ;" width="1920" height="926" xlink:href="../img/time-hkg.png" transform="matrix(0.5 0 0 0.5 0 -26)">
 </image>
 <path class="st5" d="M270,250.6c-1.4,0-2.5,1.1-2.5,2.5s1.1,2.5,2.5,2.5s2.5-1.1,2.5-2.5C272.5,251.7,271.4,250.6,270,250.6"/>
 <g>
